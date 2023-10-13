@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/0b8/0b85770bb5b346858d1f22cb102d49cf.jpg",
+    "title": "Рембрандт",
+    "sizes": [26, 30, 40],
+    "price": 47,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://flowersgett.ru/upload/iblock/f3e/f3e1f27ec0de97735b7c48cdf0351f3c.jpg",
+    "title": "Попугайные",
+    "sizes": [26, 40],
+    "price": 41,
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/559/55975e702d4e5fc108fb602a94e739dd.jpg",
+    "title": "Грейг",
+    "sizes": [26, 40],
+    "price": 38,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://storage.yandexcloud.net/floral-tale.ru.products/image_106211_1588391261.jpg",
+    "title": "Фостер",
+    "sizes": [26, 30, 40],
+    "price": 40,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/12e/12e8061ff236e78cbc4e7ae3ecf6a73b.jpg",
+    "title": "Кауфман",
+    "sizes": [26, 30, 40],
+    "price": 52,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/4dc/4dcf5c57d4232496bc07bbf515e4b06b.jpg",
+    "title": "Зеленоцветные",
+    "sizes": [30, 40],
+    "price": 42,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/14c/buket_51_korolevskiy_tyulpan_alye.jpg",
+    "title": "Лилиецветные",
+    "sizes": [26, 30, 40],
+    "price": 40,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/c69/c69adab17476ba6040e20df001db4d2e.jpg",
+    "title": "Махровые",
+    "sizes": [26, 30, 40],
+    "price": 45,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/c2f/c2f7ce8ac772c6441268f821c48acd27.jpg",
+    "title": "Триумф",
+    "sizes": [26, 30, 40],
+    "price": 39,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://www.souzcvettorg.ru/upload/iblock/063/063ccde3a06c8b08003d889963cce08f.jpg",
+    "title": "Дарвиновы",
+    "sizes": [26, 30, 40],
+    "price": 64,
+    "category": 5,
+    "rating": 7
+  }
+]

@@ -1,0 +1,13 @@
+.root {
+  padding: 100px;
+  text-align: center;
+  .description {
+    font-size: 20px;
+  }
+  @media (max-width: 530px) {
+    padding: 10px 0 100px 0;
+    h1 {
+      font-size: 30px;
+    }
+  }
+}

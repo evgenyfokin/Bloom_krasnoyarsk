@@ -1,0 +1,21 @@
+.footer {
+  border-top: 1px solid #f6f6f6;
+}
+.footer__content {
+  font-weight: 600;
+  display: flex;
+  padding: 20px 0;
+  justify-content: space-between;
+}
+@media (max-width: 560px) {
+  .footer__content {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+.footer__content_logo {
+  display: flex;
+  align-items: end;
+}
+
+/*# sourceMappingURL=Footer.module.css.map */
